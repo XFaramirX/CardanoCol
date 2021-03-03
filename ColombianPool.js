@@ -1,6 +1,6 @@
 {
-  "name": "ColombianPool",
-  "description": "Pool colombiana creada para la comunidad hispana",
-  "ticker": "XFaramir",
+  "name": "Colombia",
+  "description": "CARDANO -ADA Pool colombiana creada para la comunidad hispana",
+  "ticker": "COL",
   "homepage": "https://twitter.com/DavidBBernal"
 }
